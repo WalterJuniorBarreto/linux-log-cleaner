@@ -8,7 +8,7 @@ A robust Bash script designed to prevent server disk exhaustion by automatically
 - **Audit Trail:** Generates a timestamped log of all execution cycles and deleted files.
 - **Fail-Safe:** Includes directory existence validation before execution.
 
-## 🛠️nstallation & Usage
+## Istallation & Usage
 
 1. Clone the repository:
    ```bash
